@@ -1,7 +1,7 @@
 # POPS binaries for POPStarter on PlayStation 2
-The PlayStation One Portable Station or POPS also known as "SLBB-00001" is a official Sony emulator of the PlayStation (PS1) for PlayStation 2 (PS2).
+The PlayStation One Portable Station or POPS also known as "SLBB-00001" is an official Sony emulator of the PlayStation (PS1) for PlayStation 2 (PS2).
 
-This is the binaries required for the POPStarter on PS2.
+This is the binaries required for the [POPStarter](https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home) on PS2.
 
 ## Hash
 | Filename     | MD5                              | Secure Hash Algorithm 1                  | Secure Hash Algorithm 256                                        |
